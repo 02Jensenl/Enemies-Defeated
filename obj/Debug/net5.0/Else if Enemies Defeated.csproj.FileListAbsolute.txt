@@ -1,0 +1,16 @@
+C:\Users\Lauren\source\repos\Else if Enemies Defeated\bin\Debug\net5.0\Else if Enemies Defeated.exe
+C:\Users\Lauren\source\repos\Else if Enemies Defeated\bin\Debug\net5.0\Else if Enemies Defeated.deps.json
+C:\Users\Lauren\source\repos\Else if Enemies Defeated\bin\Debug\net5.0\Else if Enemies Defeated.runtimeconfig.json
+C:\Users\Lauren\source\repos\Else if Enemies Defeated\bin\Debug\net5.0\Else if Enemies Defeated.runtimeconfig.dev.json
+C:\Users\Lauren\source\repos\Else if Enemies Defeated\bin\Debug\net5.0\Else if Enemies Defeated.dll
+C:\Users\Lauren\source\repos\Else if Enemies Defeated\bin\Debug\net5.0\ref\Else if Enemies Defeated.dll
+C:\Users\Lauren\source\repos\Else if Enemies Defeated\bin\Debug\net5.0\Else if Enemies Defeated.pdb
+C:\Users\Lauren\source\repos\Else if Enemies Defeated\obj\Debug\net5.0\Else if Enemies Defeated.csproj.AssemblyReference.cache
+C:\Users\Lauren\source\repos\Else if Enemies Defeated\obj\Debug\net5.0\Else if Enemies Defeated.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lauren\source\repos\Else if Enemies Defeated\obj\Debug\net5.0\Else if Enemies Defeated.AssemblyInfoInputs.cache
+C:\Users\Lauren\source\repos\Else if Enemies Defeated\obj\Debug\net5.0\Else if Enemies Defeated.AssemblyInfo.cs
+C:\Users\Lauren\source\repos\Else if Enemies Defeated\obj\Debug\net5.0\Else if Enemies Defeated.csproj.CoreCompileInputs.cache
+C:\Users\Lauren\source\repos\Else if Enemies Defeated\obj\Debug\net5.0\Else if Enemies Defeated.dll
+C:\Users\Lauren\source\repos\Else if Enemies Defeated\obj\Debug\net5.0\ref\Else if Enemies Defeated.dll
+C:\Users\Lauren\source\repos\Else if Enemies Defeated\obj\Debug\net5.0\Else if Enemies Defeated.pdb
+C:\Users\Lauren\source\repos\Else if Enemies Defeated\obj\Debug\net5.0\Else if Enemies Defeated.genruntimeconfig.cache
